@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3SampleGenerator", "MP3SampleGenerator\MP3SampleGenerator.csproj", "{10CDB3EC-FB61-48E4-9527-05866A4902A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3SampleGenerator-WebJob", "MP3SampleGenerator-WebJob\MP3SampleGenerator-WebJob.csproj", "{C8D33D6E-D0BC-4E71-8021-92BCB5C465A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CDB3EC-FB61-48E4-9527-05866A4902A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CDB3EC-FB61-48E4-9527-05866A4902A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CDB3EC-FB61-48E4-9527-05866A4902A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CDB3EC-FB61-48E4-9527-05866A4902A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D33D6E-D0BC-4E71-8021-92BCB5C465A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D33D6E-D0BC-4E71-8021-92BCB5C465A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D33D6E-D0BC-4E71-8021-92BCB5C465A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D33D6E-D0BC-4E71-8021-92BCB5C465A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
